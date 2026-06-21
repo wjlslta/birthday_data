@@ -8,6 +8,15 @@
       "filename": null,
       "url": null,
       "timestamp": "2026-06-21T05:18:31.252Z"
+    },
+    {
+      "id": "cbdc6746-2549-4298-9122-c1bc46ec195c",
+      "type": "photobooth",
+      "name": "testing",
+      "message": "hehe",
+      "filename": "photobooth_testing_1782019139174.png",
+      "url": "https://raw.githubusercontent.com/wjlslta/birthday_data/main/birthday-wishes/photobooth_testing_1782019139174.png",
+      "timestamp": "2026-06-21T05:19:01.009Z"
     }
   ]
 }
