@@ -48,7 +48,7 @@
     {
       "id": "14d96db9-bf6d-408d-a94a-b70c5d6c05ab",
       "type": "photo",
-      "name": "Aulstin",
+      "name": "Austin",
       "message": "Ambers Birthday Present!!! it's a drawing!",
       "filename": "photo_Aulstin_1782056856982.jpg",
       "url": "https://raw.githubusercontent.com/wjlslta/birthday_data/main/birthday-wishes/photo_Aulstin_1782056856982.jpg",
@@ -62,24 +62,6 @@
       "filename": null,
       "url": null,
       "timestamp": "2026-06-21T16:12:30.605Z"
-    },
-    {
-      "id": "30246c7b-ce5d-4cb3-a8e3-23138ee70c15",
-      "type": "message",
-      "name": "hi",
-      "message": "hi",
-      "filename": null,
-      "url": null,
-      "timestamp": "2026-06-21T18:47:57.699Z"
-    },
-    {
-      "id": "d25413a6-d7e1-4321-9de0-2e3acdbf50f3",
-      "type": "message",
-      "name": "test",
-      "message": "hi",
-      "filename": null,
-      "url": null,
-      "timestamp": "2026-06-22T17:21:14.596Z"
     },
     {
       "id": "28fc96fb-eb6e-4e39-a5e7-ad7a5d3720f3",
