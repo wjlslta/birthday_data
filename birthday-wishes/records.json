@@ -71,6 +71,15 @@
       "filename": "photo_Austin_1782160107945.jpg",
       "url": "https://raw.githubusercontent.com/wjlslta/birthday_data/main/birthday-wishes/photo_Austin_1782160107945.jpg",
       "timestamp": "2026-06-22T20:28:29.854Z"
+    },
+    {
+      "id": "40b58385-7be8-44f8-9b86-4ac4b5710c8e",
+      "type": "photobooth",
+      "name": "Austin",
+      "message": "Tstinggg",
+      "filename": "photobooth_Austin_1782179259483.png",
+      "url": "https://raw.githubusercontent.com/wjlslta/birthday_data/main/birthday-wishes/photobooth_Austin_1782179259483.png",
+      "timestamp": "2026-06-23T01:47:41.339Z"
     }
   ]
 }
